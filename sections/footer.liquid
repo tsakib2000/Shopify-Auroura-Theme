@@ -570,6 +570,7 @@
             {%- if shop.enabled_payment_types != empty -%}
               <ul id="footer-payment-methods" class="list-inline payment-icons text-center text-lg-right">
                 {%- for type in shop.enabled_payment_types -%}
+                  <li>Hello Shopify</li>
                 <li class="list-inline-item">
                   {{ type | payment_type_svg_tag: class: 'payment-icon' }}
                 </li>
