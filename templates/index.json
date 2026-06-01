@@ -1,0 +1,594 @@
+{
+  "sections": {
+    "1ad704a6-c110-4577-82ed-e8dd191b024b": {
+      "type": "featured-collections-5",
+      "blocks": {
+        "template--14964948434998__1ad704a6-c110-4577-82ed-e8dd191b024b-collection-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/h1-b1.jpg",
+            "asset_image": "shopify:\/\/shop_images\/slidershow3-1.png",
+            "asset_position": "left top",
+            "color": "#ffffff",
+            "enable_gradient": false,
+            "bg_overlay": "#282828",
+            "opacity_overlay": 0,
+            "position_text": "bot-left",
+            "text_alignments": "left",
+            "image_toptitle": "Up to",
+            "image_title": "25% Off <br>  Regular Price",
+            "size_text": "h3",
+            "subheading": "",
+            "button_label": "Shop now",
+            "button_link": "shopify:\/\/collections\/bridal-dresses",
+            "stylebtns": "btn-outline btn-outline-white"
+          }
+        },
+        "template--14964948434998__1ad704a6-c110-4577-82ed-e8dd191b024b-collection-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/h1-b2.jpg",
+            "asset_image": "shopify:\/\/shop_images\/vector3-h2.png",
+            "asset_position": "right top",
+            "color": "#ffffff",
+            "enable_gradient": false,
+            "bg_overlay": "#282828",
+            "opacity_overlay": 0.4,
+            "position_text": "bot-left",
+            "text_alignments": "left",
+            "image_toptitle": "Try on today",
+            "image_title": "Silhouette  Guide",
+            "size_text": "h4",
+            "subheading": "",
+            "button_label": "",
+            "button_link": "",
+            "stylebtns": "btn-theme"
+          }
+        },
+        "template--14964948434998__1ad704a6-c110-4577-82ed-e8dd191b024b-collection-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/h1-b4.jpg",
+            "asset_image": "shopify:\/\/shop_images\/vector5-h5.png",
+            "asset_position": "right bottom",
+            "color": "#ffffff",
+            "enable_gradient": false,
+            "bg_overlay": "#282828",
+            "opacity_overlay": 0,
+            "position_text": "top-center",
+            "text_alignments": "center",
+            "image_toptitle": "About Our",
+            "image_title": "New Dress <br> This Way",
+            "size_text": "h3",
+            "subheading": "",
+            "button_label": "Shop Bridal",
+            "button_link": "shopify:\/\/collections\/bridal-separates",
+            "stylebtns": "btn-outline btn-outline-white"
+          }
+        },
+        "template--14964948434998__1ad704a6-c110-4577-82ed-e8dd191b024b-collection-4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/h1-b3.jpg",
+            "asset_image": "shopify:\/\/shop_images\/home7_image3_fec66cae-8ff6-4cbb-bc6e-33e9602c6ba8.png",
+            "asset_position": "left bottom",
+            "color": "#ffffff",
+            "enable_gradient": false,
+            "bg_overlay": "#282828",
+            "opacity_overlay": 0.3,
+            "position_text": "bot-right",
+            "text_alignments": "right",
+            "image_toptitle": "New Arrivals",
+            "image_title": "Bridemaids  Collection",
+            "size_text": "h4",
+            "subheading": "",
+            "button_label": "",
+            "button_link": "",
+            "stylebtns": "btn-theme"
+          }
+        }
+      },
+      "block_order": [
+        "template--14964948434998__1ad704a6-c110-4577-82ed-e8dd191b024b-collection-1",
+        "template--14964948434998__1ad704a6-c110-4577-82ed-e8dd191b024b-collection-2",
+        "template--14964948434998__1ad704a6-c110-4577-82ed-e8dd191b024b-collection-3",
+        "template--14964948434998__1ad704a6-c110-4577-82ed-e8dd191b024b-collection-4"
+      ],
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "center",
+        "layout": "collage-3",
+        "col": "col-lg-3",
+        "enable_padding": true,
+        "size_image_col": "auto",
+        "paddingsection": "90px 0px 90px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "9b4458af-c37d-4761-827f-0fa27c9a8102": {
+      "type": "featured-products",
+      "custom_css": [
+        "@media (max-width:749px) {.row .footer-column:nth-child(3) {order: -1; }}"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "full",
+        "bgsection": "#fdf8f6",
+        "title_top": "FEATURED PRODUCT",
+        "title": "What’s Hot",
+        "des": "",
+        "align-heading": "center",
+        "collection": "bridal-dresses",
+        "style_product_info": "style-1",
+        "enable_creative": false,
+        "padding": true,
+        "colgrid": "col-lg-3",
+        "rows": 8,
+        "txtbutton": "",
+        "urlbtn": "",
+        "paddingsection": "80px 30px 40px 30px",
+        "paddingmobile": "40px 20px 40px 20px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "1eddd694-0e0f-4be7-8568-e6ee4aa0c747": {
+      "type": "advanced-content",
+      "blocks": {
+        "50076552-3db0-4424-a742-3bb825dc90d3": {
+          "type": "text",
+          "settings": {
+            "align": "center",
+            "title_top": "About us",
+            "title": "We Belive In A Bridal Revolution",
+            "text": "<p>We don’t think bridal should be uncomfortable or kept in a box. We don’t think you should be pressured into not feeling like yourself. Our dresses are unusual, figure flattering and above all comfortable. They are made to stand out in the bridal world and to make your guests salute you for being you.<\/p>",
+            "align-content": "center",
+            "width": "41%",
+            "button_text": "More About Us",
+            "button_link": "",
+            "style_btn": "btn-theme"
+          }
+        },
+        "a99f2d35-b896-40e3-ab17-3afd5cf8cdf8": {
+          "type": "image",
+          "settings": {
+            "width": "33%",
+            "align": "center",
+            "image": "shopify:\/\/shop_images\/h1-b5.jpg",
+            "width_image": 100,
+            "image_link": "",
+            "enable_top": false,
+            "code": "",
+            "padding-left": false,
+            "padding-right": false
+          }
+        },
+        "90131abe-db9c-4591-8b14-6af90649ff1f": {
+          "type": "image",
+          "settings": {
+            "width": "25%",
+            "align": "center",
+            "image": "shopify:\/\/shop_images\/h1-b6.jpg",
+            "width_image": 100,
+            "image_link": "",
+            "enable_top": false,
+            "code": "",
+            "padding-left": false,
+            "padding-right": false
+          }
+        }
+      },
+      "block_order": [
+        "50076552-3db0-4424-a742-3bb825dc90d3",
+        "a99f2d35-b896-40e3-ab17-3afd5cf8cdf8",
+        "90131abe-db9c-4591-8b14-6af90649ff1f"
+      ],
+      "custom_css": [
+        "@media (min-width: 749px) {.grid__item-inner--text {padding-right: 2rem; }}"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "text_color": "rgba(0,0,0,0)",
+        "bgsection": "#ffffff",
+        "rangebg": 0,
+        "bgbefore": "rgba(0,0,0,0)",
+        "e_size": "auto",
+        "e_repeat": "no-repeat",
+        "e_position": "center center",
+        "zindex": "0",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "center",
+        "padding": true,
+        "col_center": true,
+        "paddingsection": "90px 0px 90px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "5cd1049e-ede9-4075-90a6-fbf027a3afd9": {
+      "type": "quotes",
+      "blocks": {
+        "template--14973341302838__5cd1049e-ede9-4075-90a6-fbf027a3afd9-quote-1": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "avatar": "shopify:\/\/shop_images\/Home1_test1.jpg",
+            "author": "KELLI HANSEN",
+            "info": "Los Angeles, USA",
+            "rate": 5,
+            "quote": "“I can’t thank you all enough. I loved everything about my experience. Thank you for helping me find the dress of my dreams!”"
+          }
+        },
+        "template--14973341302838__5cd1049e-ede9-4075-90a6-fbf027a3afd9-quote-2": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "avatar": "shopify:\/\/shop_images\/team2.jpg",
+            "author": "TIM J",
+            "info": "Los Angeles, USA",
+            "rate": 5,
+            "quote": "\"Wedding is worth much more than I paid. Wedding is the next killer app. It's really wonderful. Buy this now. \""
+          }
+        },
+        "template--14973341302838__5cd1049e-ede9-4075-90a6-fbf027a3afd9-quote-3": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "avatar": "shopify:\/\/shop_images\/team1.jpg",
+            "author": "JOHN DOE",
+            "info": "Design",
+            "rate": 5,
+            "quote": "\"I am so pleased with this product. I will let my mum know about this, she could really make use of wedding!.\""
+          }
+        }
+      },
+      "block_order": [
+        "template--14973341302838__5cd1049e-ede9-4075-90a6-fbf027a3afd9-quote-1",
+        "template--14973341302838__5cd1049e-ede9-4075-90a6-fbf027a3afd9-quote-2",
+        "template--14973341302838__5cd1049e-ede9-4075-90a6-fbf027a3afd9-quote-3"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "image_bg": "shopify:\/\/shop_images\/Home1_bg1.jpg",
+        "color": "#000000",
+        "bg_overlay": "#222222",
+        "enable_gradient": false,
+        "opacity_overlay": 0,
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "center",
+        "aligntext": "text-center",
+        "style": "style-3",
+        "color_rate": "#f1f1f1",
+        "color_rated": "#000000",
+        "color_text": "#000000",
+        "size_text": "h3",
+        "bg_item": "rgba(0,0,0,0)",
+        "widthcolumn": 60,
+        "enable_padding_inner": true,
+        "show": 1,
+        "arrows": false,
+        "draggable": true,
+        "dots": true,
+        "infinite": true,
+        "paddingsection": "90px 0px 90px 0px",
+        "paddingmobile": "60px 0px 60px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "1660192674d8a6fd50": {
+      "type": "featured-articles",
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "title_top": "FROM THE BLOG",
+        "title": "From The Blog",
+        "des": "",
+        "align-heading": "center",
+        "blog": "news",
+        "item_style": "blog-8",
+        "enable_btn_blog": false,
+        "enable_btn_line": false,
+        "enable_date": true,
+        "enable_tag": true,
+        "enable_comment": false,
+        "enable_short": false,
+        "image_size": "auto",
+        "arrows": true,
+        "draggable": true,
+        "dots": true,
+        "infinite": true,
+        "rows": "1",
+        "limit": 3,
+        "show": 3,
+        "paddingsection": "80px 0px 60px 0px",
+        "paddingmobile": "60px 0px 60px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "1660900735d9374b53": {
+      "type": "line",
+      "settings": {
+        "animation": "fade",
+        "paddingsection": "0px 0px 0px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "bgsection": "#ffffff",
+        "setwidth": "full",
+        "bgborder": "#e1e1e1",
+        "wborder": "1px"
+      }
+    },
+    "da61ba08-3aae-4a74-9bd1-c2d7d349625b": {
+      "type": "brand-list",
+      "blocks": {
+        "template--14964948434998__da61ba08-3aae-4a74-9bd1-c2d7d349625b-logo-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/home4_234234_e45a89a0-ff25-4929-86c6-c207b13a28d5.png",
+            "link": ""
+          }
+        },
+        "template--14964948434998__da61ba08-3aae-4a74-9bd1-c2d7d349625b-logo-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/home4_233542.png",
+            "link": ""
+          }
+        },
+        "template--14964948434998__da61ba08-3aae-4a74-9bd1-c2d7d349625b-logo-3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/home4_23423_1c1750df-cdf4-488a-99b2-ed81a3b9570d.png",
+            "link": ""
+          }
+        },
+        "template--14964948434998__da61ba08-3aae-4a74-9bd1-c2d7d349625b-logo-4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/home4_2342_281db205-5f90-4b57-ac40-91a0f56203e1.png",
+            "link": ""
+          }
+        },
+        "template--14964948434998__da61ba08-3aae-4a74-9bd1-c2d7d349625b-logo-5": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/home4_13434_9b20d722-78fe-4af8-b8ff-290b9896f600.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14964948434998__da61ba08-3aae-4a74-9bd1-c2d7d349625b-logo-1",
+        "template--14964948434998__da61ba08-3aae-4a74-9bd1-c2d7d349625b-logo-2",
+        "template--14964948434998__da61ba08-3aae-4a74-9bd1-c2d7d349625b-logo-3",
+        "template--14964948434998__da61ba08-3aae-4a74-9bd1-c2d7d349625b-logo-4",
+        "template--14964948434998__da61ba08-3aae-4a74-9bd1-c2d7d349625b-logo-5"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "center",
+        "grayscale": false,
+        "opacity": true,
+        "width": "2-5",
+        "paddingsection": "80px 0px 80px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "58d0d90a-a918-4101-8910-c8a4601175fa": {
+      "type": "line",
+      "settings": {
+        "animation": "",
+        "paddingsection": "0px 0px 0px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "bgsection": "#ffffff",
+        "setwidth": "full",
+        "bgborder": "#dddddd",
+        "wborder": "1px"
+      }
+    },
+    "f809ca3a-400b-4c0b-a346-583654844aa2": {
+      "type": "gallery-carousel",
+      "blocks": {
+        "891a0ddd-200e-4bbd-b11e-146a64560fc7": {
+          "type": "item",
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/g-1.jpg",
+            "image_2": "shopify:\/\/shop_images\/g2.jpg"
+          }
+        },
+        "5c3426bc-ca8a-4cad-a147-374faa012e87": {
+          "type": "item",
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/g-3.jpg",
+            "image_2": "shopify:\/\/shop_images\/g-4.jpg"
+          }
+        },
+        "a28a653b-87fd-4bb8-ba82-35f9caa9812d": {
+          "type": "item",
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/g-5.jpg",
+            "image_2": "shopify:\/\/shop_images\/g-6.jpg"
+          }
+        },
+        "86475857-4289-424f-a7b2-5b237d752780": {
+          "type": "item",
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/g-7.jpg",
+            "image_2": "shopify:\/\/shop_images\/g-8.jpg"
+          }
+        },
+        "dc3fa29f-bb2c-4e12-80aa-9640a9e792a8": {
+          "type": "item",
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/g-9.jpg",
+            "image_2": "shopify:\/\/shop_images\/g-10.jpg"
+          }
+        },
+        "3b05df82-01e6-4135-8c61-8f6f43c8b892": {
+          "type": "item",
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/g-11.jpg",
+            "image_2": "shopify:\/\/shop_images\/g-12.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "891a0ddd-200e-4bbd-b11e-146a64560fc7",
+        "5c3426bc-ca8a-4cad-a147-374faa012e87",
+        "a28a653b-87fd-4bb8-ba82-35f9caa9812d",
+        "86475857-4289-424f-a7b2-5b237d752780",
+        "dc3fa29f-bb2c-4e12-80aa-9640a9e792a8",
+        "3b05df82-01e6-4135-8c61-8f6f43c8b892"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "speed": 50,
+        "scroll_type": "from-right",
+        "background": "#ffffff",
+        "gradient_bg": "",
+        "title_top": "follow us",
+        "title": "Love Is All Around",
+        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "align-heading": "center",
+        "paddingsection": "90px 0px 90px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "cb37f1f7-eb4f-4770-a43a-10875f426471": {
+      "type": "line",
+      "settings": {
+        "animation": "",
+        "paddingsection": "0px 0px 0px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "bgsection": "#ffffff",
+        "setwidth": "full",
+        "bgborder": "#dddddd",
+        "wborder": "1px"
+      }
+    },
+    "479fac02-6391-406f-bd09-61ef156be3b6": {
+      "type": "service",
+      "blocks": {
+        "template--14964948434998__479fac02-6391-406f-bd09-61ef156be3b6-service-1": {
+          "type": "service",
+          "settings": {
+            "bgblock": "#ffffff",
+            "title": "Worldwide shippng",
+            "description": "Businesses with worldwide shipping capabilities",
+            "icon": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" viewbox=\"0 0 100 100\"><defs><style>.a{fill:none;stroke:#000;stroke-width:2px}<\/style><\/defs><path class=\"a\" d=\"M82.19 69.25a13.09 13.09 0 0 1-3.54-3 1.86 1.86 0 0 1 0-2.38c1.29-1.52 3.08-5-4.17-7.52a5.28 5.28 0 0 0-2.24 0 12.36 12.36 0 0 1-5.49 0 9.78 9.78 0 0 1-4.1-2.16c-.23-.2-.44-.41-.65-.63a10.08 10.08 0 0 1-2.17-10l.15-.46a8.09 8.09 0 0 0-3.92-9.55l-1.83-1c-3.54-1.58-5.69-3.88-6.39-6.83-1-4-.14-7.55 4.46-13.15M32 17.1a13 13 0 0 1 3.52 7.23 9.74 9.74 0 0 1-.52 4.76 11.74 11.74 0 0 1-2.16 3.61 10.49 10.49 0 0 0-1.72 2.73c-.62 1.51-1.12 3.44-.61 4.91a4 4 0 0 0 2.75 2.33c.25.08.52.16.8.23a5.11 5.11 0 0 1 4.24 4.65c.13 2-.82 4.29-2.68 6.44a17.84 17.84 0 0 1-6.76 4.78A15.87 15.87 0 0 1 23 59.93a14.39 14.39 0 0 1-3.14-.35c-3.45-.77-3.73-1.39-6.86-3.58M32.12 83c-.18-2.75-2.68-8.09.69-13.4a22.33 22.33 0 0 1 8.36-7.36c3.48-1.79 6.77-2.37 9-1.58a4.61 4.61 0 0 1 3.08 5.12v.83a4 4 0 0 0 1.21 3.3c1.49 1.26 4.42 1.3 6.66.91a2.55 2.55 0 0 0 .59-.18A12.09 12.09 0 0 1 67 69.43a9.74 9.74 0 0 1 4.51 1.2 12.61 12.61 0 0 1 5.41 5.51\"><\/path><circle class=\"a\" cx=\"50\" cy=\"50\" r=\"37.5\"><\/circle><\/svg>",
+            "button": "See Details",
+            "link": "",
+            "style_btn": "btn-underline btn-underline-white"
+          }
+        },
+        "template--14964948434998__479fac02-6391-406f-bd09-61ef156be3b6-service-2": {
+          "type": "service",
+          "settings": {
+            "bgblock": "#ffffff",
+            "title": "Lowest price",
+            "description": "Find a dress at a lower price?  <br> We will match it.",
+            "icon": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" viewbox=\"0 0 100 100\"><defs><style>.a{fill:none;stroke:#000;stroke-width:2px}<\/style><\/defs><path class=\"a\" d=\"M16.96 11.72h66.08v70.76l-6.62 5.8-6.61-5.8-6.61 5.8-6.61-5.8-6.61 5.8-6.6-5.8-6.61 5.8-6.61-5.8-6.6 5.8-6.6-5.8V11.72zM23.97 34.6h49.36M23.97 46.28h49.01M23.97 57.96h28.57M23.97 69.64h28.57\"><\/path><path class=\"a\" d=\"M61.63 66.87c0 2.69 4.18 2.51 4.18 2.51s4.19.27 4.19-3.23c0-2.27-4.16-2.25-4.16-2.25-4.85 0-4.16-3.33-4.16-3.33 0-3.74 4.22-3.43 4.22-3.43 4.51 0 4.08 3.43 4.08 3.43M65.8 53.03v20.46M23.97 23.41h49.36\"><\/path><\/svg>",
+            "button": "See Details",
+            "link": "",
+            "style_btn": "btn-underline btn-underline-white"
+          }
+        },
+        "template--14964948434998__479fac02-6391-406f-bd09-61ef156be3b6-service-3": {
+          "type": "service",
+          "settings": {
+            "bgblock": "#ffffff",
+            "title": "Free Shipping",
+            "description": "Free shipping may be offered with standard shipping times",
+            "icon": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" viewbox=\"0 0 100 100\"><defs><style>.a{fill:none;stroke:#000;stroke-width:2.16px}<\/style><\/defs><path class=\"a\" d=\"M50 89.87L15.33 69.86V30.08l34.78-19.95 34.56 19.95v39.78L50 89.87z\"><\/path><path class=\"a\" d=\"M67.33 50.78V40.09L32.76 20.14M15.33 30.08L50 50.09\"><\/path><path class=\"a\" d=\"M50 89.87V50.09l34.67-20.01\"><\/path><\/svg>",
+            "button": "See Details",
+            "link": "",
+            "style_btn": "btn-underline btn-underline-white"
+          }
+        },
+        "63da76fb-6255-4173-834b-4eca273010a4": {
+          "type": "service",
+          "settings": {
+            "bgblock": "#ffffff",
+            "title": "Shopping safely",
+            "description": "Prioritize the use of secure payment methods such as credit cards, PayPal",
+            "icon": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" viewbox=\"0 0 64 64\"><defs><style>.b{fill:none;stroke:#000;stroke-width:1.6px}<\/style><\/defs><path class=\"b\" d=\"M19.45 23.6v-3.2c0-7 5.89-11.75 12.55-11.75 7.21 0 12.55 5.49 12.55 11.75v3.2M10 23.6h44v31.75H10zM32 37.47v7.47\"><\/path><circle class=\"b\" cx=\"32\" cy=\"35.87\" r=\"1.6\"><\/circle><\/svg>",
+            "button": "See Details",
+            "link": "",
+            "style_btn": "btn-underline btn-underline-white"
+          }
+        }
+      },
+      "block_order": [
+        "template--14964948434998__479fac02-6391-406f-bd09-61ef156be3b6-service-1",
+        "template--14964948434998__479fac02-6391-406f-bd09-61ef156be3b6-service-2",
+        "template--14964948434998__479fac02-6391-406f-bd09-61ef156be3b6-service-3",
+        "63da76fb-6255-4173-834b-4eca273010a4"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "center",
+        "e_border": false,
+        "paddingbox": "0px 0px 0px 0px",
+        "iconcolor": "#282828",
+        "titlecolor": "#282828",
+        "subcolor": "#4b5955",
+        "size": 52,
+        "service_heading": "h5",
+        "layout": "style-2",
+        "enable_carousel": false,
+        "arrows": false,
+        "draggable": true,
+        "dots": true,
+        "infinite": true,
+        "paddingsection": "40px 0px 40px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    }
+  },
+  "order": [
+    "1ad704a6-c110-4577-82ed-e8dd191b024b",
+    "9b4458af-c37d-4761-827f-0fa27c9a8102",
+    "1eddd694-0e0f-4be7-8568-e6ee4aa0c747",
+    "5cd1049e-ede9-4075-90a6-fbf027a3afd9",
+    "1660192674d8a6fd50",
+    "1660900735d9374b53",
+    "da61ba08-3aae-4a74-9bd1-c2d7d349625b",
+    "58d0d90a-a918-4101-8910-c8a4601175fa",
+    "f809ca3a-400b-4c0b-a346-583654844aa2",
+    "cb37f1f7-eb4f-4770-a43a-10875f426471",
+    "479fac02-6391-406f-bd09-61ef156be3b6"
+  ]
+}

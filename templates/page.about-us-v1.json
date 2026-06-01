@@ -1,0 +1,397 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "879356f6-ec3a-4beb-8c29-ed125b5045cb": {
+      "type": "rich-text",
+      "blocks": {
+        "6e415f74-0da4-4b47-a183-d0985313598b": {
+          "type": "sub_title",
+          "settings": {
+            "subtitle": "ABOUT Aurora"
+          }
+        },
+        "1ab45bb9-94c1-40b1-a790-53ee2bafdba6": {
+          "type": "heading",
+          "settings": {
+            "title": "Offering The Latest Styles & <br>Inspiration For All",
+            "size_text": "h2"
+          }
+        },
+        "564d7666-5d91-45b3-91a9-a589fb7f3503": {
+          "type": "button",
+          "settings": {
+            "button": "our product",
+            "link": "shopify:\/\/collections\/all",
+            "style_btn": "btn-theme"
+          }
+        }
+      },
+      "block_order": [
+        "6e415f74-0da4-4b47-a183-d0985313598b",
+        "1ab45bb9-94c1-40b1-a790-53ee2bafdba6",
+        "564d7666-5d91-45b3-91a9-a589fb7f3503"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "bgsection": "#f4efe9",
+        "gradient_bg": "",
+        "title_color": "rgba(0,0,0,0)",
+        "title_top": "",
+        "title": "",
+        "text": "",
+        "align-heading": "center",
+        "paddingsection": "150px 0px 150px 0px",
+        "paddingmobile": "40px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "d72bcc8c-88fe-4415-96f0-06511b070083": {
+      "type": "image-content-6",
+      "blocks": {
+        "template--16716887458110__d72bcc8c-88fe-4415-96f0-06511b070083-16666725974cf35e4d-0": {
+          "type": "image_block",
+          "settings": {
+            "w_image": 40,
+            "pos_image": 90,
+            "e_image": "right",
+            "image": "shopify:\/\/shop_images\/g-7.jpg",
+            "image2": "shopify:\/\/shop_images\/g-4.jpg",
+            "enable_video": false,
+            "text_circle": "New Fashion style store",
+            "video_url": ""
+          }
+        },
+        "template--16716887458110__d72bcc8c-88fe-4415-96f0-06511b070083-16666725974cf35e4d-1": {
+          "type": "text_block",
+          "settings": {
+            "bgtext": "#ffffff",
+            "subtitle": "Our story fashion",
+            "title": "Was Launched  in 1920",
+            "size_text": "h2",
+            "text": "",
+            "answer_content": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button": "discover now",
+            "link": "",
+            "align": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16716887458110__d72bcc8c-88fe-4415-96f0-06511b070083-16666725974cf35e4d-0",
+        "template--16716887458110__d72bcc8c-88fe-4415-96f0-06511b070083-16666725974cf35e4d-1"
+      ],
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "size": "50-50",
+        "enable_padding": true,
+        "align_center": true,
+        "paddingsection": "100px 0px 150px 0px",
+        "paddingmobile": "60px 0px 60px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "895c09e5-5c6d-4c4d-8492-727381e40aa0": {
+      "type": "service",
+      "blocks": {
+        "template--14964948434998__479fac02-6391-406f-bd09-61ef156be3b6-service-1": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "Worldwide shippng",
+            "description": "Businesses with worldwide shipping capabilities",
+            "icon": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" viewbox=\"0 0 100 100\"><defs><style>.a{fill:none;stroke:#000;stroke-width:2px}<\/style><\/defs><path class=\"a\" d=\"M82.19 69.25a13.09 13.09 0 0 1-3.54-3 1.86 1.86 0 0 1 0-2.38c1.29-1.52 3.08-5-4.17-7.52a5.28 5.28 0 0 0-2.24 0 12.36 12.36 0 0 1-5.49 0 9.78 9.78 0 0 1-4.1-2.16c-.23-.2-.44-.41-.65-.63a10.08 10.08 0 0 1-2.17-10l.15-.46a8.09 8.09 0 0 0-3.92-9.55l-1.83-1c-3.54-1.58-5.69-3.88-6.39-6.83-1-4-.14-7.55 4.46-13.15M32 17.1a13 13 0 0 1 3.52 7.23 9.74 9.74 0 0 1-.52 4.76 11.74 11.74 0 0 1-2.16 3.61 10.49 10.49 0 0 0-1.72 2.73c-.62 1.51-1.12 3.44-.61 4.91a4 4 0 0 0 2.75 2.33c.25.08.52.16.8.23a5.11 5.11 0 0 1 4.24 4.65c.13 2-.82 4.29-2.68 6.44a17.84 17.84 0 0 1-6.76 4.78A15.87 15.87 0 0 1 23 59.93a14.39 14.39 0 0 1-3.14-.35c-3.45-.77-3.73-1.39-6.86-3.58M32.12 83c-.18-2.75-2.68-8.09.69-13.4a22.33 22.33 0 0 1 8.36-7.36c3.48-1.79 6.77-2.37 9-1.58a4.61 4.61 0 0 1 3.08 5.12v.83a4 4 0 0 0 1.21 3.3c1.49 1.26 4.42 1.3 6.66.91a2.55 2.55 0 0 0 .59-.18A12.09 12.09 0 0 1 67 69.43a9.74 9.74 0 0 1 4.51 1.2 12.61 12.61 0 0 1 5.41 5.51\"><\/path><circle class=\"a\" cx=\"50\" cy=\"50\" r=\"37.5\"><\/circle><\/svg>",
+            "button": "See Details",
+            "link": "",
+            "style_btn": "btn-underline btn-underline-white"
+          }
+        },
+        "template--14964948434998__479fac02-6391-406f-bd09-61ef156be3b6-service-2": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "Lowest price",
+            "description": "Find a dress at a lower price?  <br> We will match it.",
+            "icon": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" viewbox=\"0 0 100 100\"><defs><style>.a{fill:none;stroke:#000;stroke-width:2px}<\/style><\/defs><path class=\"a\" d=\"M16.96 11.72h66.08v70.76l-6.62 5.8-6.61-5.8-6.61 5.8-6.61-5.8-6.61 5.8-6.6-5.8-6.61 5.8-6.61-5.8-6.6 5.8-6.6-5.8V11.72zM23.97 34.6h49.36M23.97 46.28h49.01M23.97 57.96h28.57M23.97 69.64h28.57\"><\/path><path class=\"a\" d=\"M61.63 66.87c0 2.69 4.18 2.51 4.18 2.51s4.19.27 4.19-3.23c0-2.27-4.16-2.25-4.16-2.25-4.85 0-4.16-3.33-4.16-3.33 0-3.74 4.22-3.43 4.22-3.43 4.51 0 4.08 3.43 4.08 3.43M65.8 53.03v20.46M23.97 23.41h49.36\"><\/path><\/svg>",
+            "button": "See Details",
+            "link": "",
+            "style_btn": "btn-underline btn-underline-white"
+          }
+        },
+        "template--14964948434998__479fac02-6391-406f-bd09-61ef156be3b6-service-3": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "Free Shipping",
+            "description": "Free shipping may be offered with standard shipping times",
+            "icon": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" viewbox=\"0 0 100 100\"><defs><style>.a{fill:none;stroke:#000;stroke-width:2.16px}<\/style><\/defs><path class=\"a\" d=\"M50 89.87L15.33 69.86V30.08l34.78-19.95 34.56 19.95v39.78L50 89.87z\"><\/path><path class=\"a\" d=\"M67.33 50.78V40.09L32.76 20.14M15.33 30.08L50 50.09\"><\/path><path class=\"a\" d=\"M50 89.87V50.09l34.67-20.01\"><\/path><\/svg>",
+            "button": "See Details",
+            "link": "",
+            "style_btn": "btn-underline btn-underline-white"
+          }
+        },
+        "63da76fb-6255-4173-834b-4eca273010a4": {
+          "type": "service",
+          "settings": {
+            "bgblock": "rgba(0,0,0,0)",
+            "title": "Shopping safely",
+            "description": "Prioritize the use of secure payment methods such as credit cards, PayPal",
+            "icon": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" viewbox=\"0 0 64 64\"><defs><style>.b{fill:none;stroke:#000;stroke-width:1.6px}<\/style><\/defs><path class=\"b\" d=\"M19.45 23.6v-3.2c0-7 5.89-11.75 12.55-11.75 7.21 0 12.55 5.49 12.55 11.75v3.2M10 23.6h44v31.75H10zM32 37.47v7.47\"><\/path><circle class=\"b\" cx=\"32\" cy=\"35.87\" r=\"1.6\"><\/circle><\/svg>",
+            "button": "See Details",
+            "link": "",
+            "style_btn": "btn-underline btn-underline-white"
+          }
+        }
+      },
+      "block_order": [
+        "template--14964948434998__479fac02-6391-406f-bd09-61ef156be3b6-service-1",
+        "template--14964948434998__479fac02-6391-406f-bd09-61ef156be3b6-service-2",
+        "template--14964948434998__479fac02-6391-406f-bd09-61ef156be3b6-service-3",
+        "63da76fb-6255-4173-834b-4eca273010a4"
+      ],
+      "settings": {
+        "animation": "fade-up",
+        "setwidth": "container",
+        "bgsection": "#f5f5f5",
+        "title_top": "",
+        "title": "",
+        "des": "",
+        "align-heading": "center",
+        "e_border": false,
+        "paddingbox": "0px 0px 0px 0px",
+        "iconcolor": "#000000",
+        "titlecolor": "#000000",
+        "subcolor": "#666666",
+        "size": 50,
+        "service_heading": "h5",
+        "layout": "style-2",
+        "enable_carousel": false,
+        "arrows": false,
+        "draggable": true,
+        "dots": true,
+        "infinite": false,
+        "paddingsection": "30px 0px 30px 0px",
+        "paddingmobile": "30px 0px 10px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "24a28133-2e01-4361-8b00-ad164f72336f": {
+      "type": "image-content",
+      "blocks": {
+        "template--16716887458110__24a28133-2e01-4361-8b00-ad164f72336f-1666686767d1a98887-1": {
+          "type": "text_block",
+          "settings": {
+            "width": "75%",
+            "bgtext": "#ffffff",
+            "title_color": "rgba(0,0,0,0)",
+            "subtitle": "Our Mission",
+            "title": "Your Style is  Our Inspiration",
+            "size_text": "h2",
+            "text": "<div class=\" mr-lg-4\">\n<p>Need a little newness in your life? We've got you covered. Bringing you \nthe latest drop of more killer clothes, versatile accessories, stand-out \nfootwear, and much, much more. Update those lifesaving essentials \nor bag a knock-out, night-out number.<\/p>\n      <div class=\"mt-5 pt-4\">\n        <img class=\"lazyload\" loading=\"lazy\" data-src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1062\/6128\/files\/cedarandpines-nicole-kelsey-kelso-35.jpg?v=1697907135\">\n      <\/div>\n    \n<\/div>",
+            "answer_content": "",
+            "style_btn": "btn-underline btn-underline-white",
+            "button": "",
+            "link": "",
+            "enable_padding": false,
+            "align": "left"
+          }
+        },
+        "template--16716887458110__24a28133-2e01-4361-8b00-ad164f72336f-1666686767d1a98887-0": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/g-12.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16716887458110__24a28133-2e01-4361-8b00-ad164f72336f-1666686767d1a98887-1",
+        "template--16716887458110__24a28133-2e01-4361-8b00-ad164f72336f-1666686767d1a98887-0"
+      ],
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "rangebg": 0,
+        "bgbefore": "rgba(0,0,0,0)",
+        "bg_pos": "left",
+        "enable_padding": true,
+        "align_center": false,
+        "paddingsection": "100px 0px 100px 0px",
+        "paddingmobile": "60px 0px 60px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "559f6024-64db-446e-a9dc-976582972dce": {
+      "type": "quotes",
+      "blocks": {
+        "template--16716887458110__559f6024-64db-446e-a9dc-976582972dce-16666891474b2efc36-0": {
+          "type": "quote",
+          "settings": {
+            "title": "Perfect !",
+            "avatar": "shopify:\/\/shop_images\/g-11.jpg",
+            "author": "John Alvy",
+            "info": "Engineer",
+            "rate": 5,
+            "quote": "These are comfortable and they look great. I love that the sole is not super thick and oversized like other shoes. Much more subtle understated..."
+          }
+        },
+        "template--16716887458110__559f6024-64db-446e-a9dc-976582972dce-16666891474b2efc36-1": {
+          "type": "quote",
+          "settings": {
+            "title": "Awesome !",
+            "avatar": "shopify:\/\/shop_images\/g-3.jpg",
+            "author": "Jacquelyn Rizzo",
+            "info": "Producer",
+            "rate": 5,
+            "quote": "I love this shirt. It feels like a soft sweater but lightweight like a shirt. I wore it to work today. It was 85 and I was fine running around."
+          }
+        },
+        "template--16716887458110__559f6024-64db-446e-a9dc-976582972dce-16666891474b2efc36-2": {
+          "type": "quote",
+          "settings": {
+            "title": "Amazing !",
+            "avatar": "shopify:\/\/shop_images\/h1-b1.jpg",
+            "author": "Hailee Parsons",
+            "info": "Designer",
+            "rate": 5,
+            "quote": "Just right for fall and winter. Quality is there. Order usual size unless you want over sized. Absolutely beautiful"
+          }
+        }
+      },
+      "block_order": [
+        "template--16716887458110__559f6024-64db-446e-a9dc-976582972dce-16666891474b2efc36-0",
+        "template--16716887458110__559f6024-64db-446e-a9dc-976582972dce-16666891474b2efc36-1",
+        "template--16716887458110__559f6024-64db-446e-a9dc-976582972dce-16666891474b2efc36-2"
+      ],
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "bgsection": "#ffffff",
+        "image_bg": "shopify:\/\/shop_images\/pexels-photo-679568.jpg",
+        "color": "#000000",
+        "bg_overlay": "#222222",
+        "enable_gradient": false,
+        "opacity_overlay": 0.4,
+        "title_top": "",
+        "title": "",
+        "des": "<div class=\"mb-5\">\n<h2 class=\"text-white\">We Love Our Clients<\/h2>\n<p class=\"text-white\">We are very fortunate to have formed excellent \npartnerships with many of our clients.<\/p>\n<\/div>",
+        "align-heading": "center",
+        "aligntext": "text-left",
+        "style": "style-2",
+        "color_rate": "#f1f1f1",
+        "color_rated": "#000000",
+        "color_text": "#000000",
+        "size_text": "txt-body",
+        "bg_item": "#ffffff",
+        "widthcolumn": 100,
+        "enable_padding_inner": true,
+        "show": 3,
+        "arrows": true,
+        "draggable": true,
+        "dots": false,
+        "infinite": true,
+        "paddingsection": "100px 0px 100px 0px",
+        "paddingmobile": "60px 0px 60px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "abb14abe-2a33-4a6b-aaa1-d36d5422d78d": {
+      "type": "s_team_member",
+      "blocks": {
+        "template--16716887458110__abb14abe-2a33-4a6b-aaa1-d36d5422d78d-1666689151286d1fe7-0": {
+          "type": "member",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/team3.jpg",
+            "name": "Abdul Khalek",
+            "position": "CEO & Founder",
+            "twitter": "https:\/\/twitter.com\/",
+            "google": "https:\/\/plus.google.com",
+            "facebook": "https:\/\/www.facebook.com\/",
+            "linkedin": "https:\/\/www.linkedin.com\/"
+          }
+        },
+        "template--16716887458110__abb14abe-2a33-4a6b-aaa1-d36d5422d78d-1666689151286d1fe7-1": {
+          "type": "member",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/team1_88edf047-120b-48f1-9d3b-377a386a1fbc.jpg",
+            "name": "Vera Duncan",
+            "position": "Producer",
+            "twitter": "https:\/\/twitter.com\/",
+            "google": "https:\/\/plus.google.com",
+            "facebook": "https:\/\/www.facebook.com\/",
+            "linkedin": "https:\/\/www.linkedin.com\/"
+          }
+        },
+        "template--16716887458110__abb14abe-2a33-4a6b-aaa1-d36d5422d78d-1666689151286d1fe7-2": {
+          "type": "member",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/team9.jpg",
+            "name": "Michella Ore",
+            "position": "Developer",
+            "twitter": "https:\/\/twitter.com\/",
+            "google": "https:\/\/plus.google.com",
+            "facebook": "https:\/\/www.facebook.com\/",
+            "linkedin": "https:\/\/www.linkedin.com\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--16716887458110__abb14abe-2a33-4a6b-aaa1-d36d5422d78d-1666689151286d1fe7-0",
+        "template--16716887458110__abb14abe-2a33-4a6b-aaa1-d36d5422d78d-1666689151286d1fe7-1",
+        "template--16716887458110__abb14abe-2a33-4a6b-aaa1-d36d5422d78d-1666689151286d1fe7-2"
+      ],
+      "settings": {
+        "animation": "fade",
+        "setwidth": "container",
+        "bgsection": "",
+        "title_top": "Ourselves",
+        "title": "Team Of Highly Skilled",
+        "des": "",
+        "align-heading": "center",
+        "items": "3",
+        "layout": "2",
+        "paddingsection": "100px 0px 40px 0px",
+        "paddingmobile": "60px 0px 40px 0px",
+        "marginsection": "0px 0px 0px 0px",
+        "marginmobile": "0px 0px 0px 0px"
+      }
+    },
+    "a035e328-7cfe-4cf0-81d0-e2f5f0188740": {
+      "type": "map",
+      "settings": {
+        "heading": "Our store",
+        "address": "<p>123 Fake St.<br\/>Toronto, Canada<\/p><p>Mon - Fri, 10am - 9pm<br\/>Saturday, 11am - 9pm<br\/>Sunday, 11am - 5pm<\/p>",
+        "map_address": "301 Front St W, Toronto",
+        "button_text": "Get directions",
+        "show_pin": true,
+        "api_key": "",
+        "bg_overlay": "#222222",
+        "enable_gradient": false,
+        "opacity_overlay": 0.2,
+        "map_code": "<div class=\"mapouter\"><div class=\"gmap_canvas\">\n<iframe width=\"600\" height=\"500\" id=\"gmap_canvas\" src=\"https:\/\/maps.google.com\/maps?q=CN%20Tower,%20301%20Front%20St%20W,%20Toronto,%20ON%20M5V%202T6,%20Canada&t=&z=13&ie=UTF8&iwloc=&output=embed\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" loading=\"lazy\" allowfullscreen><\/iframe><br><style>.mapouter{position:relative;text-align:right;height:100%;width:600px;}<\/style>\n<a href=\"https:\/\/www.embedgooglemap.net\">google maps code generator<\/a><style>.gmap_canvas {overflow:hidden;background:none!important;height:100%;width:600px;}<\/style>\n<\/div><\/div>",
+        "background_image_position": "center center"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "879356f6-ec3a-4beb-8c29-ed125b5045cb",
+    "d72bcc8c-88fe-4415-96f0-06511b070083",
+    "895c09e5-5c6d-4c4d-8492-727381e40aa0",
+    "24a28133-2e01-4361-8b00-ad164f72336f",
+    "559f6024-64db-446e-a9dc-976582972dce",
+    "abb14abe-2a33-4a6b-aaa1-d36d5422d78d",
+    "a035e328-7cfe-4cf0-81d0-e2f5f0188740"
+  ]
+}
