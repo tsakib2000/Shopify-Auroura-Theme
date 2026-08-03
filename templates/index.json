@@ -452,23 +452,6 @@
         "marginmobile": "0px 0px 0px 0px"
       }
     },
-    "custom_widgets_6QKtdK": {
-      "type": "custom-widgets",
-      "name": "Size Guide",
-      "settings": {}
-    },
-    "cb37f1f7-eb4f-4770-a43a-10875f426471": {
-      "type": "line",
-      "settings": {
-        "animation": "",
-        "paddingsection": "0px 0px 0px 0px",
-        "marginsection": "0px 0px 0px 0px",
-        "bgsection": "#ffffff",
-        "setwidth": "full",
-        "bgborder": "#dddddd",
-        "wborder": "1px"
-      }
-    },
     "479fac02-6391-406f-bd09-61ef156be3b6": {
       "type": "service",
       "blocks": {
@@ -565,8 +548,6 @@
     "da61ba08-3aae-4a74-9bd1-c2d7d349625b",
     "58d0d90a-a918-4101-8910-c8a4601175fa",
     "f809ca3a-400b-4c0b-a346-583654844aa2",
-    "custom_widgets_6QKtdK",
-    "cb37f1f7-eb4f-4770-a43a-10875f426471",
     "479fac02-6391-406f-bd09-61ef156be3b6"
   ]
 }
