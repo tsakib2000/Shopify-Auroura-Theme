@@ -330,11 +330,6 @@
         "wborder": "1px"
       }
     },
-    "custom_widgets_eVi8i9": {
-      "type": "custom-widgets",
-      "name": "Size Guide",
-      "settings": {}
-    },
     "da61ba08-3aae-4a74-9bd1-c2d7d349625b": {
       "type": "brand-list",
       "blocks": {
@@ -562,7 +557,6 @@
     "5cd1049e-ede9-4075-90a6-fbf027a3afd9",
     "1660192674d8a6fd50",
     "1660900735d9374b53",
-    "custom_widgets_eVi8i9",
     "da61ba08-3aae-4a74-9bd1-c2d7d349625b",
     "58d0d90a-a918-4101-8910-c8a4601175fa",
     "f809ca3a-400b-4c0b-a346-583654844aa2",
