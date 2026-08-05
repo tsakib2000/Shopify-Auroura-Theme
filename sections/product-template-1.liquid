@@ -618,6 +618,8 @@
                       </span>
                     </button>
                   </div>
+
+                 
                   {% if block.settings.enable_payment_button %}
                     <div class="product-form__buynow">
                     {{ form | payment_button }}
@@ -846,6 +848,7 @@
               
             {%- endcase -%}
           {%- endfor -%}
+          
         </div>
       </div>
     </div>

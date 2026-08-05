@@ -412,10 +412,15 @@
         "marginsection": "0px 0px 0px 0px",
         "marginmobile": "0px 0px 0px 0px"
       }
+    },
+    "custom-widgets": {
+      "type": "custom-widgets",
+      "settings": {}
     }
   },
   "order": [
     "main",
+    "custom-widgets",
     "product-requently",
     "product-content",
     "169782457912b0166c",

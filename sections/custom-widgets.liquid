@@ -1,7 +1,10 @@
 {% comment %} sections/size-guide-widget.liquid {% endcomment %}
-<div data-size-guide-widget data-product-id="{{ product.id }}">
-    
-</div>
+<div
+  data-size-guide-widget
+  data-product-id="{{ product.id }}"
+  data-product-title="{{ product.title | escape }}"
+  data-product-price="{{ product.price }}"
+></div>
 {{ 'custom.css' | asset_url | stylesheet_tag }}
 <script src="{{ 'custom.js' | asset_url }}" defer></script>
 {% schema %}
